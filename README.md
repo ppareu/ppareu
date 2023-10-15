@@ -2,6 +2,14 @@
 ![Image Mookea](https://github.com/ppareu/ppareu/assets/127382049/c82078ff-4471-465d-884c-25c316780e81)
 
 - 📫 Email : bin000120@nave.com
+
+<!-- Table -->
+|:박현빈:|:학력:|
+|:--:|:--:|
+|부산 성서초등학교|졸업|
+|부산 성동중학교|졸업|
+|부산 동성고등학교|졸업|
+|신라대학교|재학중|
 <!--
 **ppareu/ppareu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
