@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white">
+  <img src="https://img.shields.io/badge/armkeil-394049?style=for-the-badge&logo=arm&logoColor=white">
 </div>
 <!--
 **ppareu/ppareu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
