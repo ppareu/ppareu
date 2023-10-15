@@ -2,6 +2,7 @@
 ![Image Mookea](https://github.com/ppareu/ppareu/assets/127382049/c82078ff-4471-465d-884c-25c316780e81)
 
 - 📫 Email : bin000120@nave.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)
 
 <div align=center><h1>🛠️ STACKS</h1></div>
 <div>
