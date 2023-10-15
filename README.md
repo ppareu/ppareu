@@ -5,7 +5,8 @@
 
 - 🛠️Technical Skills
 <br><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C언어-A8B9CC?style=for-the-badge&logo=C&logoColor=black"/></a> 
-
+# Linux
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <!--
 **ppareu/ppareu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
