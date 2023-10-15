@@ -3,7 +3,7 @@
 
 - 📫 Email : bin000120@nave.com
   
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)
 
 <div align=center><h1>🛠️ STACKS</h1></div>
 <div>
