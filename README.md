@@ -8,7 +8,6 @@
 
 <div align=center><h1>🛠️ STACKS</h1></div>
 <div align="center">
-  <p>Use Main Stacks</p>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
