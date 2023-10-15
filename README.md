@@ -3,14 +3,8 @@
 
 - 📫 Email : bin000120@nave.com
 
-<!-- Table -->
-|학교명|졸업여부|
-|:--:|:--:|
-|부산 성서초등학교|졸업|
-|부산 성동중학교|졸업|
-|부산 동성고등학교|졸업|
-|신라대학교|재학중|
-
+###🛠️Technical Skills
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=C&logoColor=A8B9CC"/></a>
 <!--
 **ppareu/ppareu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
