@@ -4,7 +4,7 @@
 - 📫 Email : bin000120@nave.com
 
 - 🛠️Technical Skills
-![c](https://github.com/ppareu/ppareu/assets/127382049/bea52b4d-b747-4308-b405-ae0d119ef96e)
+
 <!--
 **ppareu/ppareu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
