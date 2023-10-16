@@ -41,8 +41,7 @@
 <br>
 
 ## 🎶 other
-  <img src="https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white">
-  <img src="https://img.shields.io/badge/armkeil-394049?style=for-the-badge&logo=armkeil&logoColor=white">
+  <img src="https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white"> <img src="https://img.shields.io/badge/armkeil-394049?style=for-the-badge&logo=armkeil&logoColor=white">
   
 <br>
 
