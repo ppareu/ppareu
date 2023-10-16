@@ -3,8 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)
 
-## 💻 OS
-|||
+## 🚀 Skills
+|💻 OS||
 |---|---|
 | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">     |                                         |
 | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> |                                         |
@@ -12,7 +12,7 @@
 | <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white">       |                                         |
 | <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">  |                                         |
 <br>
-## 🚀 Skills
+
 | Main Skills                             |                                         |
 | --------------------------------------- | --------------------------------------- |
   
