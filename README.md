@@ -1,9 +1,6 @@
 # 박현빈 깃허브입니다 (_ _)
 ![Image Mookea](https://github.com/ppareu/ppareu/assets/127382049/c82078ff-4471-465d-884c-25c316780e81)
 
-- 📫 Email : <a href="mailto:bin000120@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=Email&logoColor=white&link=mailto:bin000120@naver.com"/></a>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)
 
 <div align=center><h1>🛠️ STACKS</h1></div>
@@ -27,6 +24,10 @@
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/apachenetbeanside-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
 </p>
+
+<div align=center><h1>📞 Contact me</h1></div>
+<a href="mailto:bin000120@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=Email&logoColor=white&link=mailto:bin000120@naver.com"/></a>
+
 <!--
 **ppareu/ppareu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
