@@ -3,6 +3,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)
 
+## 💻 OS
+| Main Skills                             |
+| --------------------------------------- |
+<br>
 ## 🚀 Skills
 | Main Skills                             |                                         |
 | --------------------------------------- | --------------------------------------- |
