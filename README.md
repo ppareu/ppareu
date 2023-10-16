@@ -3,28 +3,29 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)
 
-<div align=center><h1>🛠️ STACKS</h1></div>
-<p align="center">
+## 🚀 Skills
+| Main Skills                             |                                         |
+| --------------------------------------- | --------------------------------------- |
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white"> 
-  <br>
+
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  <br>
+
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white">
   <img src="https://img.shields.io/badge/armkeil-394049?style=for-the-badge&logo=armkeil&logoColor=white">
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  <br>
+
   <img src="https://img.shields.io/badge/windowsterminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white">
   <img src="https://img.shields.io/badge/apachenetbeanside-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
-</p>
+
 
 <div align=center><h1>📞 Contact me</h1></div>
 <p align="center">
