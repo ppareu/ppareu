@@ -21,13 +21,13 @@
   <img src="https://img.shields.io/badge/armkeil-394049?style=for-the-badge&logo=armkeil&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/windowsterminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/apachenetbeanside-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
 </p>
 
 <div align=center><h1>📞 Contact me</h1></div>
 <p align="center">
-<a href="mailto:bin000120@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&link=mailto:bin000120@naver.com"/></a>
+  <a href="mailto:bin000120@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&link=mailto:bin000120@naver.com"/></a>
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
 <!--
