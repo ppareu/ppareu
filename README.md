@@ -4,18 +4,21 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)
 
 ## 💻 OS
-| Main Skills                             |
-| --------------------------------------- |
+| <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">     |                                         |
+| <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> |                                         |
+| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">   |                                         |
+| <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white">       |                                         |
+| <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">   |                                         |
 <br>
 ## 🚀 Skills
 | Main Skills                             |                                         |
 | --------------------------------------- | --------------------------------------- |
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+  
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white"> 
+   
 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
