@@ -27,7 +27,7 @@
 
 <div align=center><h1>📞 Contact me</h1></div>
 <p align="center">
-<a href="mailto:bin000120@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=Email&logoColor=white&link=mailto:bin000120@naver.com"/></a>
+<a href="mailto:bin000120@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&link=mailto:bin000120@naver.com"/></a>
 </p>
 
 <!--
