@@ -1,7 +1,7 @@
 # 박현빈 깃허브입니다 (_ _)
 ![Image Mookea](https://github.com/ppareu/ppareu/assets/127382049/c82078ff-4471-465d-884c-25c316780e81)
 
-- 📫 Email : bin000120@nave.com
+- 📫 Email : <a href="mailto:bin000120@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=Email&logoColor=white&link=mailto:bin000120@naver.com"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)
