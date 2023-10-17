@@ -36,8 +36,7 @@
 <br>
 
 ## 🧩 IDE
-  <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"> <img src="	https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apachenetbeanside-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
+  <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"> <img src="	https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/apachenetbeanside-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
 
 <br>
 
