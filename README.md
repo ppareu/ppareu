@@ -1,9 +1,8 @@
 # 박현빈 깃허브입니다 (_ _)
 ![Image Mookea](https://github.com/ppareu/ppareu/assets/127382049/c82078ff-4471-465d-884c-25c316780e81)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppareu&show_icons=true&theme=radical)
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ppareu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppareu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ppareu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppareu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
 
 
 ## 💻 OS
