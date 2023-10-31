@@ -46,7 +46,7 @@
   
 <br>
 |💻 OS|🚀 Skills|⚡ Database|👻 Social|📟 Terminal|🧩 IDE|🎶 other|
-|------|---------|------------|---------|-----------|-------|--------|
+|---|---|--|---|---|---|---|
 |<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">|||||||
 <div align=center><h1>📞 Contact me</h1></div>
 <p align="center">
