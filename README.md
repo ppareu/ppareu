@@ -46,26 +46,6 @@
   
 <br>
 
-|💻 OS|<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">|<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">|<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">|<img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white">|<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">||
-|---|---|---|---|---|---|---|
-|🚀 Skills|<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">|<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">|<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">|<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> |<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
-|⚡ Database|||||
-|👻 Social|||||
-|📟 Terminal|||||
-|🧩 IDE|||||
-|🎶 other|||||
-
-<br>
-
-<div align=center><h1>📞 Contact me</h1></div>
-<p align="center">
-  <a href="mailto:bin000120@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&link=mailto:bin000120@naver.com"/></a>
-</p>
-
-# 박현빈 깃허브 프로필
-
-![프로필 이미지](https://github.com/ppareu/ppareu/assets/127382049/c82078ff-4471-465d-884c-25c316780e81)
-
 ## 💻 운영체제
 | Linux      | Windows       | Ubuntu       | WSL        | macOS     |
 |------------|---------------|--------------|------------|-----------|
@@ -100,4 +80,12 @@
 | ARM        | ARM Keil    |
 |------------|------------|
 | ![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white) | ![ARM Keil](https://img.shields.io/badge/armkeil-394049?style=for-the-badge&logo=armkeil&logoColor=white) |
+
+<br>
+
+<div align=center><h1>📞 Contact me</h1></div>
+<p align="center">
+  <a href="mailto:bin000120@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&link=mailto:bin000120@naver.com"/></a>
+</p>
+
 
